@@ -18,7 +18,7 @@ function mostrarPropiedades(propiedades) {
   </ul>
   <div class="card-body">
     <a href="#" class="btn btn-secondary">Ver mas</a>
-    <button onclick=agregarFavoritos(${propiedad.id}) class="btn btn-secondary btnAgregar">Agregar <img src=/Media/casaLikeRojo.png ></button>
+    <button onclick=agregarFavoritos(${propiedad.id}) class="btn btn-secondary btnAgregar">Agregar <img src=./Media/casaLikeRojo.png ></button>
   </div>
 </div>
 `);
