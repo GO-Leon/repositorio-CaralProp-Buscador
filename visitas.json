@@ -1,0 +1,17 @@
+[
+  {
+    "direccion": "Giribone 4352",
+    "tipo": "Depto. 3 ambientes",
+    "horario": "10:00 hasta 19:00"
+  },
+  {
+    "direccion": "Burela 2657",
+    "tipo": "Casa con patio",
+    "horario": "12:00 hasta 15:00"
+  },
+  {
+    "direccion": "Estocolmo 1257",
+    "tipo": "Duplex",
+    "horario": "15:00 hasta 20:00"
+  }
+]
